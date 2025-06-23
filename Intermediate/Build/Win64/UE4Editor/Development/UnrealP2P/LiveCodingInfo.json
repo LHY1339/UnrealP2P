@@ -1,0 +1,17 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.UnrealP2P.cpp.obj": [
+			"UnrealP2P.cpp.obj",
+			"P2PLibrary.cpp.obj",
+			"P2PObject.cpp.obj",
+			"P2PSubsystem.cpp.obj"
+		],
+		"Module.UnrealP2P.gen.cpp.obj": [
+			"P2PLibrary.gen.cpp.obj",
+			"P2PObject.gen.cpp.obj",
+			"P2PSubsystem.gen.cpp.obj",
+			"UnrealP2P.init.gen.cpp.obj"
+		]
+	}
+}

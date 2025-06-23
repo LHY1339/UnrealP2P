@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-UnrealP2P-0002.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\UnrealEngine-4.27\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"F:\_Github\AdvancedUnrealP2P\Plugins\UnrealP2P\Intermediate\Build\Win64\UE4Editor\Development\UnrealP2P\Module.UnrealP2P.cpp.obj"
+"F:\_Github\AdvancedUnrealP2P\Plugins\UnrealP2P\Intermediate\Build\Win64\UE4Editor\Development\UnrealP2P\Module.UnrealP2P.gen.cpp.obj"
+"D:\UnrealEngine-4.27\Engine\Intermediate\Build\Win64\UE4Editor\Development\Default.rc2.res"
+/OUT:"F:\_Github\AdvancedUnrealP2P\Plugins\UnrealP2P\Intermediate\Build\Win64\UE4Editor\Development\UnrealP2P\UE4Editor-UnrealP2P-0002.lib"
